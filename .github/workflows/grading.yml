@@ -2,7 +2,7 @@ name: Grading workflow
 on:
   push:
     paths:
-      - grading_config.yml
+       grading_config.yml
   workflow_dispatch:
 
 jobs:
